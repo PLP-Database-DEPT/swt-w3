@@ -31,7 +31,7 @@ Your submission must include **three components**:
 - Optionally, raise Issues for broader concerns and reference them in your PR comment  
 
 ### 2. 🔍 Review the provided HTML file:
-- Locate the "Image Gallery.html"`  
+- Locate the "gallery.html"`  
 - Raise **at least 3 issues** that identify:
   - 🛑 Errors: Code that causes crashes or fails to exhibit expected behaviour  
   - ❓ Unclear Logic: Confusing, redundant, or hard-to-maintain code  
